@@ -1,2 +1,3 @@
 # code is deployed here:
-[https://rendersample-123.onrender.com/]
+
+<a href="https://rendersample-123.onrender.com/" target="_blank"> Click here to redirect to project</a>
